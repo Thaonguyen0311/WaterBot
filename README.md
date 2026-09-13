@@ -1,15 +1,17 @@
 
-Watering robot - Waterbot
-Jump to navigationJump to search
-Participant	Supervisor
-Josuar Priebe	Prof. Dr.-Ing. Andreas Maier
-Nick Heidenfelder	Prof. Dr. Thomas Fuhrmann
+# Watering robot - Waterbot
+## Participant	
+Josuar Priebe	
+Nick Heidenfelder	
 Thao Nguyen
 Wolf Hausdorf
+## Supervisor
+Prof. Dr.-Ing. Andreas Maier
+Prof. Dr. Thomas Fuhrmann
 
-Waterbot in the greenhouse of the Botanical Garden of the University of Regensburg
+# Waterbot in the greenhouse of the Botanical Garden of the University of Regensburg
 
-Table of contents
+## Table of contents
 1	Project description
 2	Hardware
 2.1	Bill of materials
@@ -32,7 +34,7 @@ Table of contents
 9.2	Layout files:
 9.3	Code:
 9.4	Business plan:
-Project description 
+## Project description 
 The goal of this project was to build an autonomous watering robot. For gardens, greenhouses, and homes with a large number of different plants, there is currently no convenient automated solution for watering plants. The robot follows a pre-laid wire without physical contact and identifies plants using a camera. A self-built level sensor protects the submersible pump from running dry. The pumped water jet is directed vertically by a servo motor. An ultrasonic sensor prevents the robot from hitting or driving over obstacles.
 
 Hardware 
