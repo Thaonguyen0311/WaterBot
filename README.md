@@ -1,7 +1,7 @@
 
 # Watering robot - Waterbot
 ## Participant	
-Josuar Priebe	
+Josuar Priebe
 Nick Heidenfelder	
 Thao Nguyen
 Wolf Hausdorf
