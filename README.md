@@ -1,9 +1,8 @@
 
 # Watering robot - Waterbot
 ## Participant	
-Josuar Priebe
-Nick Heidenfelder	
-Thao Nguyen
+Josuar Priebe - Nick Heidenfelder	-
+Thao Nguyen -
 Wolf Hausdorf
 ## Supervisor
 Prof. Dr.-Ing. Andreas Maier - OTH Regensburg
