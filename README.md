@@ -8,6 +8,11 @@ Wolf Hausdorf
 Prof. Dr.-Ing. Andreas Maier - OTH Regensburg
 Prof. Dr. Thomas Fuhrmann - OTH Regensburg
 
+
+<img width="1600" height="1066" alt="image" src="https://github.com/user-attachments/assets/49494943-192d-4ce6-aa54-c95a022ced73" />
+<img width="1600" height="1066" alt="image" src="https://github.com/user-attachments/assets/141fe4af-8509-46a5-a02e-7be871e654b4" />
+
+
 # Waterbot in the greenhouse of the Botanical Garden of the University of Regensburg
 
 ## Table of contents
